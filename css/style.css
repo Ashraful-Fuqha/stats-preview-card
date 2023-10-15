@@ -119,7 +119,7 @@ article p{
 
     main{
         max-width: 58.8rem;
-        height: 60vh;
+        height: 80vh;
         display: grid;
         grid-template-columns: repeat(2,minmax(auto,29.3rem));
     }
