@@ -154,7 +154,6 @@ article p{
         grid-template-areas: 
                         "h h h"
                         "p p p"
-                        ". . ."
                         "f f f";
     }
     .hero-image{
