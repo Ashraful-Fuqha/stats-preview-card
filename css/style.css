@@ -103,7 +103,7 @@ article p{
 
 @keyframes introLoad{
     0%{
-        transform:translate3d(200px);
+        transform:translate3d(200px, 200px, -100px);
         opacity: 0;
     }
     100%{
